@@ -1,1 +1,0 @@
-Programele folosite pentru Physionet.
